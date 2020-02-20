@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to my page on github
+
+This is going to be the main interface about my projects on github. It will also contain important resources about quantum computation, machine learning, deep learning and other areas of my interest.
 
 You can use the [editor on GitHub](https://github.com/Rukhsan/QuantumHaq.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
